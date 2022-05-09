@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 Hi 👋 My name is Souvik Karfa
 =============================
@@ -7,6 +7,8 @@ A Passionate Web Developer & Designer from India
 ------------------------
 
 I've been learning to code for 2 years, after my 2nd year of my Engineering. I started learning with HTML5, CSS3 and as a framework BootStrap5 and TailwindCSS. But have really found passion for Backend development.....
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 *   🌍  I'm based in India, Kolkata, West-Bengal
 *   🖥️  See my portfolio at [https://github.com/Mrkarfa](http://https://github.com/Mrkarfa)
