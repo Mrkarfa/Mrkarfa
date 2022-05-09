@@ -1,7 +1,9 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 Hi 👋 My name is Souvik Karfa
 =============================
 
-Web Developer & Designer
+A Passionate Web Developer & Designer from India
 ------------------------
 
 I've been learning to code for 2 years, after my 2nd year of my Engineering. I started learning with HTML5, CSS3 and as a framework BootStrap5 and TailwindCSS. But have really found passion for Backend development.....
@@ -62,9 +64,7 @@ I've been learning to code for 2 years, after my 2nd year of my Engineering. I s
 <div width="100%" align="center"><a href="https://github.com/Mrkarfa/EduGrad-Online-learning-platform" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mrkarfa&repo=EduGrad-Online-learning-platform&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Mrkarfa/Food-Feedus" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mrkarfa&repo=Food-Feedus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
-<div width="100%" align="center"><a href="https://github.com/Mrkarfa/Hashtag_Website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mrkarfa&repo=Hashtag_Website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Mrkarfa/TravelPoint" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mrkarfa&repo=TravelPoint&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Mrkarfa/Hashtag_Website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mrkarfa&repo=Hashtag_Website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Mrkarfa/TravelPoint" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mrkarfa&repo=TravelPoint&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br />
 
 ### Support Me
 
