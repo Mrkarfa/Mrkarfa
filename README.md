@@ -1,54 +1,248 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Souvik Karfa
-=====================================================================================================================================
+<div align="center">
+  
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Souvik%20Karfa&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Web%20Developer&descAlignY=52&descSize=18"/>
 
-Full Stack Web Developer
-------------------------
+<!-- Typing Animation -->
 
-I’m currently working as Freelancer only, & looking for a stable role as Full Stack Web Developer. As an Anime Lover, learning Japanese language & Ramen.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+Digital+Experiences+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Open+Source+Enthusiast+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" /></a>
 
-*   🌍  I'm based in Kolkata
-*   🖥️  See my portfolio at [Visit](http://portfolio-website-fav.vercel.app/)
-*   ✉️  You can contact me at [souvikkarfa40227@gmail.com](mailto:souvikkarfa40227@gmail.com)
-*   🚀  I'm currently working on [StackOverflow](http://stack-overflow-website.vercel.app/)
-*   🧠  I'm currently learning React, Next.Js
-*   👥  I'm looking to collaborate on Open Source Project / Any Private Project also.
-*   💬  Ask me about I'm a father of a 4 legged child, his name is James \[ my cat \], don't tell anyone.
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/astro-colored-dark.svg" alt="Astro" title="Astro" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://clerk.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/clerk-colored-dark.svg" alt="Clerk" title="Clerk" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" alt="Web3Js" title="Web3Js" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" title="Framer" width="36" height="36" /></a><a href="https://webflow.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webflow-colored.svg" alt="Webflow" title="Webflow" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
-                  </p>
-                  
+<br/>
 
-                ### Socials
-                
-                <p align="left"> <a href="https://www.github.com/Mrkarfa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/souvikkarfa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.threads.net/@nyctophile_9120" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://www.linkedin.com/in/Souvik-karfa-0634071a3" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.youtube.com/@Mr.karfa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://www.facebook.com/souvikkarfa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a> <a href="https://www.stackoverflow.com/users/Mr.karfa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> </picture> </a></p>
-<a href="https://www.github.com/Mrkarfa" target="_blank" rel="noreferrer"><img
-                src="https://img.shields.io/github/followers/Mrkarfa?logo=github&style=for-the-badge&color=ffffff&labelColor=ffffff" /></a><a href="https://www.x.com/souvikkarfa" target="_blank" rel="noreferrer"><img
-                src="https://img.shields.io/twitter/follow/souvikkarfa?logo=twitter&style=for-the-badge&color=ffffff&labelColor=ffffff"
-              /></a>
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=Mrkarfa&style=for-the-badge&color=6366f1&labelColor=1a1b27" alt="Profile Views"/>
+&nbsp;
+<a href="https://github.com/Mrkarfa?tab=followers"><img src="https://img.shields.io/github/followers/Mrkarfa?style=for-the-badge&color=6366f1&labelColor=1a1b27&logo=github" alt="Followers"/></a>
+&nbsp;
+<a href="https://www.x.com/souvikkarfa"><img src="https://img.shields.io/twitter/follow/souvikkarfa?style=for-the-badge&color=6366f1&labelColor=1a1b27&logo=x" alt="Twitter"/></a>
 
-### Badges
+</div>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/Mrkarfa"><img src="https://github-readme-stats.vercel.app/api?username=Mrkarfa&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=000000&icon_color=ffffff&bg_color=ffffff&hide_border=true&show_icons=true" alt="Mrkarfa's GitHub stats" /></a>
+<!-- About Me Section -->
 
-<a href="http://www.github.com/Mrkarfa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrkarfa&stroke=000000&background=ffffff&ring=ffffff&fire=ffffff&currStreakNum=000000&currStreakLabel=ffffff&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> `whoami`
 
-<a href="https://github.com/Mrkarfa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkarfa&langs_count=10&title_color=ffffff&text_color=000000&icon_color=ffffff&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+```yaml
+name: Souvik Karfa
+location: Kolkata, India 🇮🇳
+role: Full Stack Web Developer
+status: "Looking for exciting opportunities"
+current_focus: ["React", "Next.js", "Building StackOverflow Clone"]
+interests: ["Anime", "Japanese Language", "Ramen 🍜"]
+fun_fact: "Father of a 4-legged child named James 🐱 (shhh... it's a secret)"
+```
 
-<b>Top Repositories</b>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div width="100%" align="center"><a href="https://github.com/Mrkarfa/CodeReview-AI Public" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mrkarfa&repo=CodeReview-AI Public&title_color=ffffff&text_color=000000&icon_color=ffffff&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/Mrkarfa/ResumeFixer" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mrkarfa&repo=ResumeFixer&title_color=ffffff&text_color=000000&icon_color=ffffff&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="22" /> Quick Info
 
-<br /><br /><br /><br /><br />
+|     |                                                                         |
+| :-- | :---------------------------------------------------------------------- |
+| 🌍  | Based in **Kolkata**                                                    |
+| 🖥️  | Portfolio: [`Visit`](http://portfolio-website-fav.vercel.app/)          |
+| ✉️  | [`souvikkarfa40227@gmail.com`](mailto:souvikkarfa40227@gmail.com)       |
+| 🚀  | Working on [`StackOverflow`](http://stack-overflow-website.vercel.app/) |
+| 🧠  | Learning **React, Next.js**                                             |
+| 👥  | Open to **collaborations**                                              |
 
-<div width="100%" align="center"><a href="https://github.com/Mrkarfa/CoderArmy---revamp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mrkarfa&repo=CoderArmy---revamp&title_color=ffffff&text_color=000000&icon_color=ffffff&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/Mrkarfa/SkillForge" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mrkarfa&repo=SkillForge&title_color=ffffff&text_color=000000&icon_color=ffffff&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
+</td>
+<td width="50%" valign="top">
 
-### Support Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe" width="22" /> Connect with Me
 
-<ul style="list-style-type: none; margin: 0;">
+<p align="center">
+<a href="https://www.github.com/Mrkarfa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/Souvik-karfa-0634071a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.x.com/souvikkarfa"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://www.threads.net/@nyctophile_9120"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/></a>
+<a href="https://www.youtube.com/@Mr.karfa"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://www.facebook.com/souvikkarfa"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://www.stackoverflow.com/users/Mr.karfa"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
+</p>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/mr.karfa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+</td>
+</tr>
+</table>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/mrkarfa"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-</ul>
+---
+
+<!-- Tech Stack Section -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> `tech_stack`
+
+<div align="center">
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,c,bash&theme=dark" alt="Languages" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind,astro&theme=dark" alt="Frontend" />
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,firebase,supabase&theme=dark" alt="Backend" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,vscode,figma,docker,kubernetes,aws,gcp,linux,ubuntu&theme=dark" alt="Tools" />
+</p>
+
+### Other Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=vite,prisma,vercel,netlify&theme=dark" alt="Other" />
+<br/>
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn/ui"/>
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk"/>
+<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer"/>
+<img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow"/>
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+
+</p>
+
+</div>
+
+---
+
+<!-- GitHub Stats Section -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="28" /> `github_stats`
+
+<div align="center">
+
+<!-- Profile Stats Badges -->
+<p>
+<img src="https://img.shields.io/badge/Public%20Repos-47-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Repos"/>
+<img src="https://img.shields.io/badge/Total%20Commits-1000+-6366F1?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" alt="Commits"/>
+<img src="https://img.shields.io/badge/Years%20Active-4+-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Years"/>
+</p>
+
+<!-- GitHub Stats Cards - These only render properly on GitHub.com -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mrkarfa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&include_all_commits=true&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mrkarfa&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mrkarfa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mrkarfa&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6366F1&sideLabels=6366F1&dates=8b949e">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Mrkarfa&theme=default&hide_border=true">
+  <img height="180em" src="https://streak-stats.demolab.com?user=Mrkarfa&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6366F1&sideLabels=6366F1&dates=8b949e" alt="Streak Stats"/>
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkarfa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9&langs_count=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkarfa&layout=compact&theme=default&hide_border=true&langs_count=8">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkarfa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</picture>
+
+</div>
+
+<br/>
+
+> **📌 Note:** _The stats cards below render fully only on GitHub.com. If viewing locally, please push to GitHub to see the complete visualization._
+
+---
+
+<!-- Activity Graph -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mrkarfa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=F97316&area=true&area_color=6366F1">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mrkarfa&theme=minimal&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrkarfa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=F97316&area=true&area_color=6366F1" alt="Activity Graph"/>
+</picture>
+
+</div>
+
+---
+
+<!-- Top Repositories Section -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" alt="Folder" width="28" /> `featured_repos`
+
+<div align="center">
+
+|            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="20"/>             | Project                                                                                                    | Description                                           | Tech Stack                                                                                                                                                                                                         |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------- | :---------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" width="24"/>                | **[Twitter-X Post Generator](https://github.com/Mrkarfa/Twitter-X-Post-Generator)**                        | AI-powered Twitter/X post generator for viral content | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![AI](https://img.shields.io/badge/AI-FF6F61?style=flat-square&logo=openai&logoColor=white)                       |
+|         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" width="24"/>         | **[ResumeFixer](https://github.com/Mrkarfa/ResumeFixer)**                                                  | Smart resume analyzer & optimizer with ATS scoring    | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)      |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Japanese%20Symbol%20for%20Beginner.png" width="24"/> | **[Ikigai - Japanese Learning](https://github.com/Mrkarfa/Ikigai---Japanese-Learning-Kanban-Application)** | Kanban-style Japanese language learning app           | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs&logoColor=white)             |
+|         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="24"/>         | **[CoderArmy - Revamp](https://github.com/Mrkarfa/CoderArmy---revamp)**                                    | Modern redesign of coding education platform          | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="24"/> | **[CodeReview-AI](https://github.com/Mrkarfa/CodeReview-AI)**                                              | AI-powered code review & analysis tool                | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF6F61?style=flat-square&logo=openai&logoColor=white)                    |
+
+<br/>
+
+<!-- Quick Access Buttons -->
+<p>
+<a href="https://github.com/Mrkarfa/Twitter-X-Post-Generator"><img src="https://img.shields.io/badge/🐦_Twitter_Generator-6366F1?style=for-the-badge&labelColor=0D1117" alt="Twitter Generator"/></a>
+<a href="https://github.com/Mrkarfa/ResumeFixer"><img src="https://img.shields.io/badge/📄_ResumeFixer-6366F1?style=for-the-badge&labelColor=0D1117" alt="ResumeFixer"/></a>
+<a href="https://github.com/Mrkarfa/Ikigai---Japanese-Learning-Kanban-Application"><img src="https://img.shields.io/badge/🎌_Ikigai-6366F1?style=for-the-badge&labelColor=0D1117" alt="Ikigai"/></a>
+</p>
+<p>
+<a href="https://github.com/Mrkarfa/CoderArmy---revamp"><img src="https://img.shields.io/badge/💻_CoderArmy-6366F1?style=for-the-badge&labelColor=0D1117" alt="CoderArmy"/></a>
+<a href="https://github.com/Mrkarfa/CodeReview-AI"><img src="https://img.shields.io/badge/🔍_CodeReview_AI-6366F1?style=for-the-badge&labelColor=0D1117" alt="CodeReview-AI"/></a>
+<a href="https://github.com/Mrkarfa?tab=repositories"><img src="https://img.shields.io/badge/📂_View_All_Repos-F97316?style=for-the-badge&labelColor=0D1117" alt="All Repos"/></a>
+</p>
+
+</div>
+
+---
+
+<!-- Contribution Snake -->
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+<!-- Support Section -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart" width="28" /> `Help me to buy a coffee`
+
+<div align="center">
+  
+<p><i>If you like my work, consider buying me a coffee! ☕</i></p>
+
+<a href="https://www.buymeacoffee.com/mr.karfa"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
+&nbsp;
+<a href="https://www.ko-fi.com/mrkarfa"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/></a>
+
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="18" />
+<code>Made with ❤️ by Souvik Karfa</code>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="18" />
+</p>
+
+</div>
