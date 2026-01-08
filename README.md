@@ -219,7 +219,7 @@ Fun_fact: "Father of a 4-legged child named James 🐱 (shhh... it's a secret)"
 <h4 align="center">Most Used Languages</h4>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkarfa&layout=pie&theme=radical&hide_border=true&bg_color=0D1117&title_color=F95C7E&text_color=c9d1d9&langs_count=8" height="250"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkarfa&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=F95C7E&text_color=c9d1d9&langs_count=6" height="280"/>
 </div>
 
 </td>
